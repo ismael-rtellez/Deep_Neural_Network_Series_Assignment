@@ -1,1 +1,1 @@
-# Deep_Neural_Network_Series_Assignment
+# Resolution of the Exercises: Deep_Neural_Network_Sprint
